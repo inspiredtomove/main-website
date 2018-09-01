@@ -36,5 +36,4 @@ feature_row:
 {% include feature_row %}
 
 {% for post in site.posts limit:3 %}
-  {% include archive-single.html %}
 {% endfor %}
