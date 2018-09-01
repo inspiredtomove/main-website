@@ -1,0 +1,15 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Services"
+    url: /services/
+  - title: "Values"
+    url: /values/
+  - title: "Pilates"
+    url: /services/pilates/
+  - title: "Essentrics"
+    url: /services/essentrics/
+  - title: "Meditation"
+    url: /services/meditation/
+  - title: "Blog"
+    url: /blog/
