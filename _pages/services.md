@@ -3,7 +3,7 @@ layout: splash
 title: Services
 permalink: /services/
 pilates:
-  - image_path: /assets/images/pilates.png
+  - image_path: /assets/images/pilates.jpg
     alt: "placeholder image 2"
     title: "Pilates"
     url: "/services/pilates"
@@ -20,7 +20,7 @@ pilates:
       Pilates says, “naturally, easily, and satisfactorily performing their many and daily
       tasks….”. People of all ages and levels of physical ability are welcome.
 essentrics:
-  - image_path: /assets/images/essentrics.png
+  - image_path: /assets/images/essentrics.jpg
     alt: "placeholder image 2"
     title: "Essentrics"
     url: "/services/essentrics"
@@ -37,7 +37,7 @@ essentrics:
       motion, flexibility, agility, and strength, while working to heal and prevent injuries.
       People of all ages and levels of physical ability are welcome.
 meditation:
-  - image_path: /assets/images/meditation.png
+  - image_path: /assets/images/meditation.jpg
     alt: "placeholder image 2"
     title: "Meditation"
     url: "/services/meditation"

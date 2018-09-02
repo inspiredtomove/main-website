@@ -5,9 +5,8 @@ toc_label: 'Contents'
 permalink: /services/essentrics
 title: 'Essentrics'
 header:
-  overlay_image: /assets/images/essentrics-splash.png
+  overlay_image: /assets/images/essentrics-splash.jpg
   overlay_filter: rgba(00, 35, 67, 0.4)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: 'Classes starting for Fall 2018'
 feature_row:
   - image_path: /assets/images/essentrics-flex.png
@@ -37,6 +36,7 @@ Essentrics is a low-impact, dynamic, full body movement that simultaneously stre
 | Saturday | 9:30 am - 10:15 am |
 
 **No pre-registration required.** All classes are taught at [Pilates and Stretch Studio](https://www.facebook.com/Pilates-and-Stretch-Studio-246196525433209/) in Woodstock, Ontario.
+{: .notice--info}
 
 ## Pricing
 

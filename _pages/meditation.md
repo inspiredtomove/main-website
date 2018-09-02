@@ -5,9 +5,8 @@ toc_label: 'Contents'
 permalink: /services/meditation
 title: 'Meditation'
 header:
-  overlay_image: /assets/images/meditation-splash.png
+  overlay_image: /assets/images/meditation-splash.jpg
   overlay_filter: rgba(00, 35, 67, 0.4)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: 'Classes available on-demand'
 ---
 

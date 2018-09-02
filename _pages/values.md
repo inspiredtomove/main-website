@@ -16,6 +16,8 @@ sidebar:
 on and off the mat through the use of mindfulness and self-inquiry
   - Classes available for all ages and levels of physical ability
 
+![image-center](/assets/images/senior.jpg){: .align-center}
+
 ## Empowerment by Increasing the Mind-Body Connection
   - We believe in the interrelationship between our mind and body, that our
 thoughts, feelings, beliefs, and attitudes can affect how healthy our body is,

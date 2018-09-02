@@ -6,6 +6,8 @@ classes: wide
 author: Ashley Farrar
 author_profile: true
 ---
+
+![image-right](/assets/images/profile.jpg){: .align-right}
 Ashley has always liked to move. From a young age she was an avid dancer, a
 competitive soccer player, and a dabbler in various outdoor activities.
 While always an important part of who she was, Ashley always treated movement as
@@ -45,3 +47,5 @@ principles of iRest Yoga Nidra) with the Internal Peace Initiative. Anchored by 
 philosophy that all bodies are good bodies, Ashley is passionate about sharing her
 experiences in strengthening the mind-body connection, building strong
 communities, and bringing mindful movement to every body.
+
+![image-center](/assets/images/arms.jpg){: .align-center}
