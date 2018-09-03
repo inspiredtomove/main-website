@@ -7,7 +7,7 @@ classes: wide
 author: Ashley Farrar
 author_profile: true
 ---
-![image-right](/assets/images/bracelets.jpg){: .align-right}
+![image-right]({{ "/assets/images/bracelets.jpg" | relative_url }}){: .align-right}
 I completed my Mat and Standing Pilates teaching certification through the PhysicalMind Institute Canada at [KW Pilates](https://www.kwpilates.com) with an incredible instructor, Stephen Filipowicz. I started my certification process without expectation. I wanted to delve more deeply into the practice that had been so integral to my healing after experiencing the sudden early loss of my mom, uncle, and dad over the span of two years. I wanted to take it day by day, and let it unfold in my life organically. I wanted to learn. 
 
 Boy did I learn. I learned all the things you would expect to learn about teaching Pilates, and so much more. I connected more deeply to myself and learned who Ashley the movement instructor was. I learned from the other participants in the program. I saw the things that made us similar, and I saw each of our unique strengths. I learned that I believed that the real magic of teaching Pilates happens by welcoming clients into your classes exactly as they are, and creating a space where people can be seen without judgment. I learned that Ashley the movement instructor wanted to share wellness through movement.
