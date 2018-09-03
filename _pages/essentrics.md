@@ -7,6 +7,8 @@ title: 'Essentrics'
 header:
   overlay_image: /assets/images/essentrics-splash.jpg
   overlay_filter: rgba(00, 35, 67, 0.4)
+  cta_label: "View schedule"
+  cta_url: "/essentrics/#schedule"
 excerpt: 'Classes starting for Fall 2018'
 feature_row:
   - image_path: /assets/images/essentrics-flex.png

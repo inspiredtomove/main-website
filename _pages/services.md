@@ -6,7 +6,7 @@ pilates:
   - image_path: /assets/images/pilates.jpg
     alt: "placeholder image 2"
     title: "Pilates"
-    url: "/services/pilates"
+    url: "/pilates/"
     btn_label: "Class Details"
     btn_class: "btn--primary"
     excerpt: >
@@ -23,7 +23,7 @@ essentrics:
   - image_path: /assets/images/essentrics.jpg
     alt: "placeholder image 2"
     title: "Essentrics"
-    url: "/services/essentrics"
+    url: "/essentrics/"
     btn_label: "Class Details"
     btn_class: "btn--primary"
     excerpt: >
@@ -40,7 +40,7 @@ meditation:
   - image_path: /assets/images/meditation.jpg
     alt: "placeholder image 2"
     title: "Meditation"
-    url: "/services/meditation"
+    url: "/meditation/"
     btn_label: "Class Details"
     btn_class: "btn--primary"
     excerpt: >

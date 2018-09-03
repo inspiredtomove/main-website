@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "All of you is welcome here"
+title: "All of You is Welcome Here"
 date: 2018-08-31
 categories: pilates 
 classes: wide

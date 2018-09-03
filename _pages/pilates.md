@@ -7,6 +7,8 @@ title: 'Pilates'
 header:
   overlay_image: /assets/images/pilates-splash.jpg
   overlay_filter: rgba(00, 35, 67, 0.4)
+  cta_label: "View schedule"
+  cta_url: "/pilates/#schedule"
 excerpt: 'Now booking classes for Fall 2018'
 sidebar:
   - text: > 
