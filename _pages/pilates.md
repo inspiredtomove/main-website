@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /services/pilates
+permalink: /pilates/
 toc: true
 toc_label: 'Contents'
 title: 'Pilates'

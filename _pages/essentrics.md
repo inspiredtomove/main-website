@@ -2,7 +2,7 @@
 layout: single
 toc: true
 toc_label: 'Contents'
-permalink: /services/essentrics
+permalink: /essentrics/
 title: 'Essentrics'
 header:
   overlay_image: /assets/images/essentrics-splash.jpg

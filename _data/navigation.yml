@@ -6,10 +6,10 @@ main:
   - title: "Values"
     url: /values/
   - title: "Pilates"
-    url: /services/pilates/
+    url: /pilates/
   - title: "Essentrics"
-    url: /services/essentrics/
+    url: /essentrics/
   - title: "Meditation"
-    url: /services/meditation/
+    url: /meditation/
   - title: "Blog"
     url: /blog/

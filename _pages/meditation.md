@@ -2,7 +2,7 @@
 layout: single
 toc: true
 toc_label: 'Contents'
-permalink: /services/meditation
+permalink: /meditation/
 title: 'Meditation'
 header:
   overlay_image: /assets/images/meditation-splash.jpg
