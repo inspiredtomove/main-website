@@ -2,7 +2,6 @@
 layout: single
 title: Our Values
 permalink: /values/
-toc: true
 toc_label: 'Contents'
 sidebar:
   - text: > 
@@ -22,6 +21,6 @@ sidebar:
 - We encourage an inner focus, and monitoring of thoughts, feelings, and emotions
 
 ## Body Positive
-- We believe all bodies are welcomed, accepted, and celebrated
-- We believe self-compassion is encouraged during physical challenges
+- All bodies are welcomed, accepted, and celebrated
+- Self-compassion is encouraged during physical challenges
 - We believe our self-worth is not dependent on our physical ability or appearance
