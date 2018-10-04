@@ -1,7 +1,6 @@
 ---
 layout: single
-toc: true
-toc_label: 'Contents'
+toc: false
 permalink: /essentrics/
 title: 'Essentrics'
 header:
