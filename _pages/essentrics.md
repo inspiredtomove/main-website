@@ -37,7 +37,7 @@ Essentrics is a low-impact, dynamic, full body movement that simultaneously stre
 | Tuesday | 8:00 pm - 8:45 pm |  
 | Saturday | 9:30 am - 10:15 am |
 
-**No pre-registration required.** All classes are taught at [Pilates and Stretch Studio](https://www.facebook.com/Pilates-and-Stretch-Studio-246196525433209/) in Woodstock, Ontario.
+**No pre-registration required.** Location TBD
 {: .notice--info}
 
 ## Pricing
