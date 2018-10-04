@@ -17,7 +17,7 @@ sidebar:
 
 ## Mind-Body Connection
 - We believe there is an interrelationship between mind and body, and both are important for well-being
-- We encourage listening and responding to the needs our bodies, minds, and hearts
+- We encourage listening and responding to the needs of our bodies, minds, and hearts
 - We encourage an inner focus, and monitoring of thoughts, feelings, and emotions
 
 ## Body Positive
