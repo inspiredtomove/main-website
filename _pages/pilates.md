@@ -46,5 +46,6 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 | --- |---- | ----- | --- | -------- | ----- |
 | Mondays | 6:30 pm - 7:30 pm | Sept 10 - Nov 19 | [KW Pilates](http://www.kwpilates.com/) ( Waterloo ) | $5 / class (drop-in only) | *No class Oct 8*
 | Tuesday | 7:00 pm - 7:45 pm | Sept 10 - Nov 3 | [Pilates and Stretch Studio](https://www.facebook.com/Pilates-and-Stretch-Studio-246196525433209/) ( Woodstock ) | $80 ( $10 / class ) |  
+| Friday | 1:30 pm - 2:15 pm | Oct 19 - Dec 7 | [Rebecca Kitchen, RMT](https://www.rebecca-rmt.com) ( Woodstock ) | $80 ( $10 / class ) |
 | Saturday | 8:30 am - 9:15 am | Sept 10 - Nov 3 | [Pilates and Stretch Studio](https://www.facebook.com/Pilates-and-Stretch-Studio-246196525433209/) ( Woodstock ) | $70 ( $10 / class ) | *No class Oct 6* 
 
