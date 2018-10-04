@@ -1,8 +1,7 @@
 ---
 layout: single
 permalink: /pilates/
-toc: true
-toc_label: 'Contents'
+toc: false
 title: 'Pilates'
 header:
   overlay_image: /assets/images/pilates-splash.jpg
