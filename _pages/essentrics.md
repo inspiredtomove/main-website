@@ -31,12 +31,12 @@ sidebar:
 Essentrics is a low-impact, dynamic, full body movement that simultaneously strengthens and lengthens all 650 muscles of the body. It’s based on the principles of tai chi, which creates health and balance, the strengthening theories behind ballet, which creates long, lean, flexible muscles, and the healing principles of physiotherapy, which creates a pain-free body.
 ## Schedule
 
-| Day |Time |
-| --- |---- |
-| Tuesday | 8:00 pm - 8:45 pm |  
-| Saturday | 9:30 am - 10:15 am |
+| Day |Time | Location |
+| --- |---- | -------- |
+| Tuesday | 8:00 pm - 8:45 pm | [Dance in Style (Studio C) - 30 Reeve St, Woodstock](https://dancewoodstock.com/)
+| Saturday | 9:30 am - 10:15 am | [Dance in Style (Studio C) - 30 Reeve St, Woodstock](https://dancewoodstock.com/)
 
-**No pre-registration required.** Location TBD
+**No pre-registration required.** 
 {: .notice--info}
 
 ## Pricing
