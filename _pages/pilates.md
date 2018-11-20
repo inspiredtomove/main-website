@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(00, 35, 67, 0.4)
   cta_label: "View schedule"
   cta_url: "/pilates/#schedule"
-excerpt: 'Now booking classes for Fall 2018'
+excerpt: 'Now booking classes for Winter 2019'
 sidebar:
   - text: > 
       > As a
@@ -41,6 +41,17 @@ Level 1 Pilates is a foundational class -- a great place to start your Pilates p
 
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
 {: .notice--primary}
+
+#### Winter 2019
+
+| Day |Time | Dates | Location | Price | Notes |
+| --- |---- | ----- | --- | -------- | ----- |
+| Monday | 12:15 pm - 12:45 pm | Jan 7 - Mar 4 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $64 ($8/class) | *No class Feb 18*
+| Tuesday | 7:00 pm - 7:45 pm | Jan 8 - Mar 5 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $90 ($10/class) |  
+| Friday | 1:30 pm - 2:15 pm | Jan 11 - Mar 8 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $90 ($10/class) |
+| Friday | 2:30 pm - 3:15 pm | Jan 11 - Mar 8 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $90 ($10/class) |
+
+#### Fall 2018
 
 | Day |Time | Dates | Location | Price | Notes |
 | --- |---- | ----- | --- | -------- | ----- |
