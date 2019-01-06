@@ -47,16 +47,8 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 | Day |Time | Dates | Location | Price | Notes |
 | --- |---- | ----- | --- | -------- | ----- |
 | Monday | 12:15 pm - 12:45 pm | Jan 7 - Mar 4 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $64 ($8/class) | *No class Feb 18*
+| Tuesday | 10:30 am - 11:30 am | Jan 8 - Mar 26  | [KW Pilates](http://www.kwpilates.com/) (Waterloo) | $20/class |
+| Tuesday | 6:00 pm - 6:45 pm | Jan 8 - Mar 5 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $90 ($10/class) | 
 | Tuesday | 7:00 pm - 7:45 pm | Jan 8 - Mar 5 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $90 ($10/class) |  
-| Friday | 1:30 pm - 2:15 pm | Jan 11 - Mar 8 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $90 ($10/class) |
-| Friday | 2:30 pm - 3:15 pm | Jan 11 - Mar 8 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $90 ($10/class) |
-
-#### Fall 2018
-
-| Day |Time | Dates | Location | Price | Notes |
-| --- |---- | ----- | --- | -------- | ----- |
-| Monday | 6:30 pm - 7:30 pm | Sept 10 - Nov 19 | [KW Pilates](http://www.kwpilates.com/) (Waterloo) | $5/class (drop-in only) | *No class Oct 8*
-| Tuesday | 7:00 pm - 7:45 pm | Sept 10 - Nov 3 | [Pilates and Stretch Studio](https://www.facebook.com/Pilates-and-Stretch-Studio-246196525433209/) (Woodstock) | $80 ($10/class) |  
-| Friday | 1:30 pm - 2:15 pm | Oct 19 - Dec 7 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $80 ($10/class) |
-| Saturday | 8:30 am - 9:15 am | Sept 10 - Nov 3 | [Pilates and Stretch Studio](https://www.facebook.com/Pilates-and-Stretch-Studio-246196525433209/) (Woodstock) | $70 ($10/class) | *No class Oct 6* 
-
+| Friday | 1:30 pm - 2:15 pm | Jan 11 - Mar 8 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 ($10/class) | *No class Feb 1, Feb 8*
+| Friday | 2:30 pm - 3:15 pm | Jan 11 - Mar 8 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 ($10/class) | *No class Feb 1, Feb 8*
