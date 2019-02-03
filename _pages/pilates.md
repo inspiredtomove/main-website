@@ -8,8 +8,8 @@ header:
   overlay_filter: rgba(00, 35, 67, 0.4)
   cta_label: "View schedule"
   cta_url: "/pilates/#schedule"
-excerpt: 'Now booking classes for Winter 2019'
-sidebar:
+excerpt: 'Now booking classes for Spring 2019'
+sidebar
   - text: > 
       > As a
         true beginner, I found it to be a very approachable experience. I enjoyed our session,
@@ -19,13 +19,7 @@ sidebar:
         Regardless of your fitness level, or experience with Pilates, I highly recommend
         trying a class with Ashley. **-- Jill**
 ---
-Pilates is a low-impact, mindful movement and thorough method of physical
-conditioning that delivers profound results. With a strong emphasis on body
-awareness, alignment, and breath, practicing Pilates will strengthen the mind-body
-connection. Muscle imbalances will be corrected while lengthening and
-strengthening muscles of the body. Benefits, such as improved strength, posture,
-coordination, flexibility, and balance, all contribute to improved movement
-efficiency and overall wellbeing. People of all ages and levels of physical ability are welcome.
+Pilates is a low-impact, mindful movement, and full-body method of physical conditioning. Perfect for men and women of all fitness levels, this program has a strong emphasis on body awareness, alignment, and breath. A regular Pilates practice will strengthen the mind-body connection. Benefits, such as improved strength, mobility, coordination, balance, and correction of muscle imbalances, all contribute to improved movement efficiency and overall wellbeing.
 
 > Physical fitness is the first requisite of happiness. Our interpretation of physical fitness is the attainment and maintenance of a uniformly developed body with a sound mind fully capable of naturally, easily, and satisfactorily performing our many and varied daily tasks with spontaneous zest and pleasure.
 >
@@ -37,10 +31,40 @@ efficiency and overall wellbeing. People of all ages and levels of physical abil
 
 ### Level 1
 
-Level 1 Pilates is a foundational class -- a great place to start your Pilates practice. We focus on proper form for safety, and to set you up for success. Improving posture, body awareness, balance, and core strength are also key components, while stretching and toning the overall body.
+An excellent place to start your practice, or to explore the Method more deeply, this class introduces the Mat and Standing Fundamentals through a Pilates-based movement vocabulary. Classes focus on alignment, breath, and body awareness, while fostering curiosity of movement. 
+
+### Level 1/2
+
+Utilizing the shared movement vocabulary we developed in Level 1, this class will increase movement variations, and build on the Pilates Fundamentals to explore Modified Mat and Standing Exercises. Classes focus on alignment, breath, and body awareness, while fostering curiosity of movement. 
+
+### Level 2
+
+Pilates Fundamentals, Modified Mat and Standing Exercises will be explored with more complex movement patterns, deepening the mind-body connection that the previous levels introduced. Classes focus on alignment, breath, body awareness, and flow, while fostering curiosity of movement.
+
+### Healthy Bones
+
+Maintain good bone health and improve muscle strength and balance in this class that uses Modified Mat and Standing Pilates Exercises that include resistance and weight bearing. Safe for those with osteoporosis, classes focus on alignment, breath, and body awareness, while fostering curiosity of movement.
+
+### Prenatal
+
+This class combines Pilates Fundamentals and Modified Mat and Standing Exercises in a gentle, feel-good class. Not just for pregnant women, classwork is designed specifically with the pre/postnatal, aging, and rehabilitating body in mind. Classes focus on deep, subtle work, paying special attention to the breath. 
 
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
 {: .notice--primary}
+
+#### Spring 2019
+
+| Day |Time | Class | Dates | Location | Price | Notes |
+| --- |---- | ----- | ----- | --- | -------- | ----- |
+| Monday | 9:30 am - 10:15 am | Level 2 | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 22*
+| Monday | 10:30 pm - 11:15 am | Prenatal | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | *No class Apr 22*
+| Monday | 12:15 pm - 12:45 pm | Level 1/2 | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $56 | *No class Apr 22*
+| Monday | 1:00 pm - 1:45 pm | Level 1 | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 22*
+| Tuesday | 6:00 pm - 6:45 pm | Level 1 | Mar 19 - May 7 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $80 |
+| Tuesday | 7:00 pm - 7:45 pm | Level 1 | Mar 19 - May 7 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $80 |  
+| Friday | 12:30 pm - 1:15 pm | Healthy Bones | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | *No class Apr 19*
+| Friday | 1:30 pm - 2:15 pm | Level 1 | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 19*
+| Friday | 2:30 pm - 3:15 pm | Level 1 | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 19*
 
 #### Winter 2019
 
