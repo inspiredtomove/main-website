@@ -8,7 +8,6 @@ header:
   overlay_filter: rgba(00, 35, 67, 0.4)
   cta_label: "View schedule"
   cta_url: "/essentrics/#schedule"
-excerpt: 'Classes starting for Fall 2018'
 feature_row:
   - image_path: /assets/images/essentrics-flex.png
     alt: "customizable"
@@ -29,6 +28,7 @@ sidebar:
 ---
 
 Essentrics is a dynamic, full-body workout that simultaneously lengthens and strengthens while engaging all 650 muscles. Perfect for men and women of all fitness levels, this program rebalances the body, prevents and helps heal injuries, and unlocks tight joints. With a diverse music playlist accompanying each routine, this low-impact, equipment-free workout leaves you feeling energized, youthful, and healthy.
+
 ## Schedule
 
 | Day |Time | Class | Location |
