@@ -31,10 +31,10 @@ sidebar:
 Essentrics is a dynamic, full-body workout that simultaneously lengthens and strengthens while engaging all 650 muscles. Perfect for men and women of all fitness levels, this program rebalances the body, prevents and helps heal injuries, and unlocks tight joints. With a diverse music playlist accompanying each routine, this low-impact, equipment-free workout leaves you feeling energized, youthful, and healthy.
 ## Schedule
 
-| Day |Time | Location |
-| --- |---- | -------- |
-| Tuesday | 8:00 pm - 8:45 pm | [Dance in Style (Studio C) - 30 Reeve St, Woodstock](https://dancewoodstock.com/)
-| Saturday | 9:30 am - 10:15 am | [Dance in Style (Studio C) - 30 Reeve St, Woodstock](https://dancewoodstock.com/)
+| Day |Time | Class | Location |
+| --- |---- | ----- | -------- |
+| Tuesday | 8:00 pm - 8:45 pm | Lengthen & Tone | [Dance in Style (Studio C) - 30 Reeve St, Woodstock](https://dancewoodstock.com/)
+| Saturday | 9:30 am - 10:15 am | Release, Rebalance, Restore | [Dance in Style (Studio C) - 30 Reeve St, Woodstock](https://dancewoodstock.com/)
 
 **No pre-registration required.** 
 {: .notice--info}
