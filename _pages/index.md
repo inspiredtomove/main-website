@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/pilates.jpg
     alt: "customizable"
     title: "Pilates"
-    excerpt: "Low impact, mindful movement, and full-body method of physical conditioning."
+    excerpt: "A low impact, mindful movement, and full-body method of physical conditioning."
     url: "/pilates/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
