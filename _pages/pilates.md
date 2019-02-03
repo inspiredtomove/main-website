@@ -19,6 +19,7 @@ sidebar
         Regardless of your fitness level, or experience with Pilates, I highly recommend
         trying a class with Ashley. **-- Jill**
 ---
+
 Pilates is a low-impact, mindful movement, and full-body method of physical conditioning. Perfect for men and women of all fitness levels, this program has a strong emphasis on body awareness, alignment, and breath. A regular Pilates practice will strengthen the mind-body connection. Benefits, such as improved strength, mobility, coordination, balance, and correction of muscle imbalances, all contribute to improved movement efficiency and overall wellbeing.
 
 > Physical fitness is the first requisite of happiness. Our interpretation of physical fitness is the attainment and maintenance of a uniformly developed body with a sound mind fully capable of naturally, easily, and satisfactorily performing our many and varied daily tasks with spontaneous zest and pleasure.
@@ -55,7 +56,7 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 #### Spring 2019
 
 | Day |Time | Class | Dates | Location | Price | Notes |
-| --- |---- | ----- | ----- | --- | -------- | ----- |
+| --- |---- | ----- | ----- | -------- | ----- | ----- |
 | Monday | 9:30 am - 10:15 am | Level 2 | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 22*
 | Monday | 10:30 pm - 11:15 am | Prenatal | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | *No class Apr 22*
 | Monday | 12:15 pm - 12:45 pm | Level 1/2 | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $56 | *No class Apr 22*
@@ -69,7 +70,7 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 #### Winter 2019
 
 | Day |Time | Dates | Location | Price | Notes |
-| --- |---- | ----- | --- | -------- | ----- |
+| --- |---- | ----- | -------- | ----- | ----- |
 | Monday | 12:15 pm - 12:45 pm | Jan 7 - Mar 4 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $64 ($8/class) | *No class Feb 18*
 | Tuesday | 10:30 am - 11:30 am | Jan 8 - Mar 26  | [KW Pilates](http://www.kwpilates.com/) (Waterloo) | $20/class |
 | Tuesday | 6:00 pm - 6:45 pm | Jan 8 - Mar 5 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $90 ($10/class) | 
