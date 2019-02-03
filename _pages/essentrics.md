@@ -28,7 +28,7 @@ sidebar:
         such a great feeling afterwards. I discovered muscles I didn't even realize I had! **-- David**
 ---
 
-Essentrics is a low-impact, dynamic, full body movement that simultaneously strengthens and lengthens all 650 muscles of the body. It’s based on the principles of tai chi, which creates health and balance, the strengthening theories behind ballet, which creates long, lean, flexible muscles, and the healing principles of physiotherapy, which creates a pain-free body.
+Essentrics is a dynamic, full-body workout that simultaneously lengthens and strengthens while engaging all 650 muscles. Perfect for men and women of all fitness levels, this program rebalances the body, prevents and helps heal injuries, and unlocks tight joints. With a diverse music playlist accompanying each routine, this low-impact, equipment-free workout leaves you feeling energized, youthful, and healthy.
 ## Schedule
 
 | Day |Time | Location |
