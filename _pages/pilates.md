@@ -9,7 +9,7 @@ header:
   cta_label: "View schedule"
   cta_url: "/pilates/#schedule"
 excerpt: 'Now booking classes for Spring 2019'
-sidebar
+sidebar:
   - text: > 
       > As a
         true beginner, I found it to be a very approachable experience. I enjoyed our session,
