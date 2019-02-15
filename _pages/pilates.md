@@ -63,9 +63,9 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 | Monday | 1:00 pm - 1:45 pm | Level 1 | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 22*
 | Tuesday | 6:00 pm - 6:45 pm | Level 1 | Mar 19 - May 7 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $80 |
 | Tuesday | 7:00 pm - 7:45 pm | Level 1 | Mar 19 - May 7 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $80 |  
-| Friday | 12:30 pm - 1:15 pm | Healthy Bones | Mar 22 - May 3 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $72 | *No class Apr 19*
-| Friday | 1:30 pm - 2:15 pm | Level 1 | Mar 22 - May 3 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $60 | *No class Apr 19*
-| Friday | 2:30 pm - 3:15 pm | Level 1 | Mar 22 - May 3 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $60 | *No class Apr 19*
+| Friday | 12:30 pm - 1:15 pm | Healthy Bones | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | *No class Apr 19*
+| Friday | 1:30 pm - 2:15 pm | Level 1 | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 19*
+| Friday | 2:30 pm - 3:15 pm | Level 1 | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 19*
 
 #### Winter 2019
 
