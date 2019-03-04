@@ -13,7 +13,7 @@ sidebar:
   - text: > 
       > As a
         true beginner, I found it to be a very approachable experience. I enjoyed our session,
-        and felt inspired to learn and grow more. She has a calming demeanor, and a very
+        and felt inspired to learn and grow more. She has a calming demeanour, and a very
         high level of knowledge. She did an excellent job explaining the fundamentals, but
         made sure to explain how the skills would be grown in the future. 
         Regardless of your fitness level, or experience with Pilates, I highly recommend
