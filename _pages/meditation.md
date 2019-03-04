@@ -21,9 +21,8 @@ joy, and even bliss.
 
 | Day |Time | Location | Price | Notes |
 | --- |---- | -------- | ----- | ----- |
-| Saturday, February 16 | 11:15 - 12:00 pm | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $10 | FULL
 | Saturday, March 23 | 11:15 - 12:00 pm | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $10 | 
-
+| Saturday, April 13 | 11:30 - 12:15 pm | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $10 | 
 
 Presently there are no regularly scheduled meditation classes. For information on scheduling a class, please email [ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca).
 
