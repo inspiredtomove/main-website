@@ -19,8 +19,8 @@ joy, and even bliss.
 
 ## Schedule
 
-| Day |Time | Location | Price | Notes |
-| --- |---- | -------- | ----- | ----- |
+| Day |Time | Location | Price | 
+| --- |---- | -------- | ----- | 
 | Saturday, May 11 | 11:30 - 12:15 pm | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $10 | 
 | Saturday, June 8 | 11:30 - 12:15 pm | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $10 | 
 | Saturday, July 6 | 11:30 - 12:15 pm | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $10 | 
