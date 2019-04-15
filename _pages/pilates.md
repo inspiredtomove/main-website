@@ -42,6 +42,10 @@ Utilizing the shared movement vocabulary we developed in Level 1, this class wil
 
 Pilates Fundamentals, Modified Mat and Standing Exercises will be explored with more complex movement patterns, deepening the mind-body connection that the previous levels introduced. Classes focus on alignment, breath, body awareness, and flow, while fostering curiosity of movement.
 
+### Gentle
+
+Pilates Fundamentals, and Modified Mat and Standing Exercises, that include resistance and weight bearing, will be combined in a gentle, feel-good class. Classes focus on alignment, breath, body awareness, and curiosity of movement. Benefits include maintaining bone density, improving muscle strength, flexibility, coordination, and balance. This class is safe for those living with osteoporosis, diastasis recti, and those getting back to movement after injury.
+
 ### Healthy Bones
 
 Maintain good bone health and improve muscle strength and balance in this class that uses Modified Mat and Standing Pilates Exercises that include resistance and weight bearing. Safe for those with osteoporosis, classes focus on alignment, breath, and body awareness, while fostering curiosity of movement.
@@ -53,7 +57,19 @@ This class combines Pilates Fundamentals and Modified Mat and Standing Exercises
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
 {: .notice--primary}
 
-#### Spring 2019
+#### May 13 - June 28, 2019
+
+| Day |Time | Class | Dates | Location | Price | Notes |
+| --- |---- | ----- | ----- | -------- | ----- | ----- |
+| Monday | 9:30 am - 10:15 am | Level 2 | May 13 - Jun 24 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $60 | *No class May 20*
+| Monday | 12:15 pm - 12:45 pm | Level 1/2 | May 13 - Jun 24 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $48 | *No class May 20*
+| Tuesday | 6:00 pm - 6:45 pm | Level 1 | May 14 - Jun 25 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $70 |
+| Tuesday | 7:00 pm - 7:45 pm | Level 1 | May 14 - Jun 25 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $70 |  
+| Wednesday | 7:00 pm - 7:45 pm | Gentle | May 15 - Jun 26 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | 
+| Friday | 1:30 pm - 2:15 pm | Level 1 | May 17 - Jun 21 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $60 | *No class Jun 28*
+
+
+#### March 18 - May 10, 2019
 
 | Day |Time | Class | Dates | Location | Price | Notes |
 | --- |---- | ----- | ----- | -------- | ----- | ----- |
@@ -67,13 +83,3 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 | Friday | 1:30 pm - 2:15 pm | Level 1 | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 19*
 | Friday | 2:30 pm - 3:15 pm | Level 1 | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 19*
 
-#### Winter 2019
-
-| Day |Time | Dates | Location | Price | Notes |
-| --- |---- | ----- | -------- | ----- | ----- |
-| Monday | 12:15 pm - 12:45 pm | Jan 7 - Mar 4 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $64 ($8/class) | *No class Feb 18*
-| Tuesday | 10:30 am - 11:30 am | Jan 8 - Mar 26  | [KW Pilates](http://www.kwpilates.com/) (Waterloo) | $20/class |
-| Tuesday | 6:00 pm - 6:45 pm | Jan 8 - Mar 5 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $90 ($10/class) | 
-| Tuesday | 7:00 pm - 7:45 pm | Jan 8 - Mar 5 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $90 ($10/class) |  
-| Friday | 1:30 pm - 2:15 pm | Jan 11 - Mar 8 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 ($10/class) | *No class Feb 1, Feb 8*
-| Friday | 2:30 pm - 3:15 pm | Jan 11 - Mar 8 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 ($10/class) | *No class Feb 1, Feb 8*
