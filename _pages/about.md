@@ -8,8 +8,7 @@ author_profile: true
 ---
 
 ![image-right]({{ "/assets/images/profile.jpg" | relative_url }}){: .align-right}
-Ashley has always liked to move. From a young age she was an avid dancer, a
-competitive soccer player, and a dabbler in various outdoor activities.
+Ashley has always liked to move. From a young age she was a competitive dancer and soccer player, and a dabbler in various outdoor activities.
 She completed a Bachelors of Applied Science in Health Studies at the
 University of Waterloo, and a Masters of Science, Epidemiology at the University of
 Guelph in order to pursue what she believed would be her career.
@@ -35,7 +34,7 @@ health and wellbeing, but also her physical pain.
 Ashley completed Mat and Standing Pilates certification through the PhysicalMind
 Institute Canada, Level One Essentrics® certification through The Esmonde
 Technique, Essentrics®, and Level One Meditation Teacher training (using the
-principles of iRest Yoga Nidra) with the Internal Peace Initiative. Anchored by the
+principles of iRest Yoga Nidra) with the Internal Peace Initiative. She is also certified in Modified and Pre/Postnatal Pilates, and Bone Fit Trained. Anchored by the
 philosophy that all bodies are good bodies, Ashley is passionate about sharing her
 experiences in strengthening the mind-body connection, building strong
 communities, and bringing mindful movement to every body.
