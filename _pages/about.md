@@ -34,7 +34,7 @@ health and wellbeing, but also her physical pain.
 Ashley completed Mat and Standing Pilates certification through the PhysicalMind
 Institute Canada, Level One Essentrics® certification through The Esmonde
 Technique, Essentrics®, and Level One Meditation Teacher training (using the
-principles of iRest Yoga Nidra) with the Internal Peace Initiative. She is also certified in Modified and Pre/Postnatal Pilates, and Bone Fit Trained. Anchored by the
+principles of iRest Yoga Nidra) with the Internal Peace Initiative. She is also certified in Modified and Pre/Postnatal Pilates, and Bone Fit Trained through Osteoporosis Canada. Anchored by the
 philosophy that all bodies are good bodies, Ashley is passionate about sharing her
 experiences in strengthening the mind-body connection, building strong
 communities, and bringing mindful movement to every body.
