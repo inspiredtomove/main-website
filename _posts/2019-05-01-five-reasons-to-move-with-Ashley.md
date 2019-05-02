@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Five Reasons to Move with Ashley"
-date: 2018-08-31
+date: 2019-05-01
 categories: pilates 
 classes: wide
 author: Ashley Farrar
