@@ -57,29 +57,10 @@ This class combines Pilates Fundamentals and Modified Mat and Standing Exercises
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
 {: .notice--primary}
 
-#### May 13 - June 28, 2019
+#### July 3 - July 30, 2019
 
 | Day |Time | Class | Dates | Location | Price | Notes |
 | --- |---- | ----- | ----- | -------- | ----- | ----- |
-| Monday | 9:30 am - 10:15 am | Level 2 | May 13 - Jun 24 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $60 | *No class May 20*
-| Monday | 12:15 pm - 12:45 pm | Level 1/2 | May 13 - Jun 24 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $48 | *No class May 20*
-| Tuesday | 6:00 pm - 6:45 pm | Level 1 | May 14 - Jun 25 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $70 |
-| Tuesday | 7:00 pm - 7:45 pm | Level 1 | May 14 - Jun 25 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $70 |  
-| Wednesday | 7:00 pm - 7:45 pm | Gentle | May 15 - Jun 26 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | 
-| Friday | 1:30 pm - 2:15 pm | Level 1 | May 17 - Jun 21 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $60 | *No class Jun 28*
-
-
-#### March 18 - May 10, 2019
-
-| Day |Time | Class | Dates | Location | Price | Notes |
-| --- |---- | ----- | ----- | -------- | ----- | ----- |
-| Monday | 9:30 am - 10:15 am | Level 2 | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 22*
-| Monday | 10:30 pm - 11:15 am | Prenatal | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | *No class Apr 22*
-| Monday | 12:15 pm - 12:45 pm | Level 1/2 | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $56 | *No class Apr 22*
-| Monday | 1:00 pm - 1:45 pm | Level 1 | Mar 18 - May 6 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 22*
-| Tuesday | 6:00 pm - 6:45 pm | Level 1 | Mar 19 - May 7 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $80 |
-| Tuesday | 7:00 pm - 7:45 pm | Level 1 | Mar 19 - May 7 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $80 |  
-| Friday | 12:30 pm - 1:15 pm | Healthy Bones | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | *No class Apr 19*
-| Friday | 1:30 pm - 2:15 pm | Level 1 | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 19*
-| Friday | 2:30 pm - 3:15 pm | Level 1 | Mar 22 - May 10 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class Apr 19*
-
+| Monday | 9:30 am - 10:15 am | Level 2 | Jul 8 - Jul 29 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $40 | 
+| Tuesday | 7:00 pm - 7:45 pm | Level 1 | Jul 2 - Jul 30 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $50 |   
+| Friday | 1:30 pm - 2:15 pm | Level 1 | Jul 5 - Jul 26 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $40 | 
