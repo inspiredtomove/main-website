@@ -63,4 +63,4 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 | --- |---- | ----- | ----- | -------- | ----- | ----- |
 | Monday | 9:30 am - 10:15 am | Level 2 | Jul 8 - Jul 29 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $40 | 
 | Tuesday | 7:00 pm - 7:45 pm | Level 1 | Jul 2 - Jul 30 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $50 |   
-| Friday | 1:30 pm - 2:15 pm | Level 1 | Jul 5 - Jul 26 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $40 | 
+| Friday | 1:30 pm - 2:15 pm | Level 1 | Jul 5 - Jul 26 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $30 | *No class July 19th
