@@ -8,35 +8,27 @@ author_profile: true
 ---
 
 ![image-right]({{ "/assets/images/profile.jpg" | relative_url }}){: .align-right}
-Ashley has always liked to move. From a young age she was a competitive dancer and soccer player, and a dabbler in various outdoor activities.
-She completed a Bachelors of Applied Science in Health Studies at the
-University of Waterloo, and a Masters of Science, Epidemiology at the University of
-Guelph in order to pursue what she believed would be her career.
+I fell in love with moving when I was young, because even as a child, the movement of my body and mind made everything feel better. It changed me. It built resiliency. 
 
-In her early 20s, Ashley began experiencing chronic pain, primarily in her neck and
-back, but as she got older, the pain became widespread, and often left her feeling
-exhausted and unable to participate in her favourite activities. This pain persisted
-and worsened throughout her 20s. In her early 30s, she experienced a devastating
-loss when her beloved mother and uncle were killed in a car accident. Two years
-later, her father died suddenly from an unknown medical condition. These
-experiences resulted in a drastic increase in Ashley’s physical pain, as well as the
-emotional pain of grief and anxiety.
+After my very first dance recital, I asked my mom when I would get to do a solo. When given the option, I chose more time in dance classes over braces. Visiting my Grandma in Toronto, I would tap dance waiting for the subway. At the time, I thought moving was fun. I didn’t recognize how much it also kept me grounded.
 
-These losses took a toll on Ashley’s wellbeing. Most days, even walking led to severe pain that left her feeling defeated, and
-powerless. She also began experiencing anxiety, and regular, debilitating panic attacks. As a parent of three, Ashley often felt drained, empty, lonely, and fearful.
+As I got older, I drifted into who I thought the world expected me to be. I went to the school, I got the job, and I slowly lost the connection to myself that movement had always fostered. 
 
-In a quest to regain her sense of wholeness, Ashley began a journey of healing. It
-was this journey that led Ashley to start honouring the importance of listening to her body and responding to its needs. Ashley became interested in how her chronic pain and emotional
-pain seemed to ebb and flow as a unit, and how the pairing of movement and meditation was an effective tool to support her health and wellbeing. Movement not only helped her chronic pain,
-but also gave her reprieve from her grief and anxiety. Similarly, meditation not only helped her emotional
-health and wellbeing, but also her physical pain. 
+I had been living with chronic pain for over ten years when my world fell apart. My mom and uncle were killed in a car accident, followed by the sudden death of my dad two years later. The constant physical and emotional pain was unbearable. 
 
-Ashley completed Mat and Standing Pilates certification through the PhysicalMind
-Institute Canada, Level One Essentrics® certification through The Esmonde
-Technique, Essentrics®, and Level One Meditation Teacher training (using the
-principles of iRest Yoga Nidra) with the Internal Peace Initiative. She is also certified in Modified and Pre/Postnatal Pilates, and Bone Fit Trained through Osteoporosis Canada. Anchored by the
-philosophy that all bodies are good bodies, Ashley is passionate about sharing her
-experiences in strengthening the mind-body connection, building strong
-communities, and bringing mindful movement to every body.
+My grief journey forced me to re-connect with my needs. I began relying heavily on movement and meditation as tools of healing and self-connection. I learned that I could trust my inner voice, and that I had the courage to meet my own needs, despite the expectations of others.  
+
+Anchored by the philosophy that all bodies are good bodies, I am passionate about creating space where people can tune into their inner voice, build a strong mind and body, stand tall, thrive, feel connected and capable, and be all in.
+
+Because when you move well, you live well.
+
+More about Ashley:
+•	Bachelors of Applied Science in Health Studies, University of Waterloo
+•	Masters of Science, Epidemiology, University of Guelph
+•	Mat and Standing Pilates Certified, PhysicalMind Institute Canada
+•	Essentrics® Level 2 Certified, The Esmonde Technique, Essentrics®
+•	Meditation Level 1, the Internal Peace Initiative
+•	Modified and Pre/Postnatal Pilates, Marta Hernandez Studio
+•	Bone FitTM Trained, Osteoporosis Canada
 
 ![image-center]({{ "/assets/images/arms.jpg" | relative_url }}){: .align-center}
