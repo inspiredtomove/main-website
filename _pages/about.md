@@ -20,7 +20,7 @@ My grief journey forced me to re-connect with my needs. I began relying heavily 
 
 Anchored by the philosophy that all bodies are good bodies, I am passionate about creating space where people can tune into their inner voice, build a strong mind and body, stand tall, thrive, feel connected and capable, and be all in.
 
-Because when you move well, you live well.
+**Because when you move well, you live well.**
 
 More about Ashley:
 * Bachelors of Applied Science in Health Studies, University of Waterloo
