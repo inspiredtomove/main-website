@@ -23,11 +23,11 @@ Anchored by the philosophy that all bodies are good bodies, I am passionate abou
 **Because when you move well, you live well.**
 
 More about Ashley:
-* Bachelors of Applied Science in Health Studies, University of Waterloo
+* Bachelors of Applied Science, Health Studies, University of Waterloo
 *	Masters of Science, Epidemiology, University of Guelph
 *	Mat and Standing Pilates Certified, PhysicalMind Institute Canada
 *	Essentrics® Level 2 Certified, The Esmonde Technique, Essentrics®
-*	Meditation Level 1, the Internal Peace Initiative
+*	Meditation Level 1, Internal Peace Initiative
 *	Modified and Pre/Postnatal Pilates, Marta Hernandez Studio
 *	Bone FitTM Trained, Osteoporosis Canada
 
