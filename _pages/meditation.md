@@ -32,10 +32,3 @@ joy, and even bliss.
 | Saturday, December 21 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
 
 Register by email: [ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca). 
-
-## What to bring
-
-- Yoga mat (some will be available)
-- Light blanket or sweater (some will be available)
-- Small pillow, cushion, or small towel for headrest
-- Eye pillow or eye mask 
