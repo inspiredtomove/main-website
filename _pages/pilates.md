@@ -30,6 +30,21 @@ Pilates is a low-impact, mindful movement, and full-body method of physical cond
 
 ## Schedule
 
+To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
+{: .notice--primary}
+
+#### September 3 - November 2
+
+| Day |Time | Class | Location | Price | Notes |
+| --- |---- | ----- | -------- | ----- | ----- |
+| Monday | 9:30 am - 10:15 am | Level 2 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | *No class October 14th*
+| Monday | 12:15 pm - 12:45 pm | Level 1/2 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class October 14th*
+| Tuesday | 9:30 am - 10:15 am | Pilates Fundamentals | [Cowan Sportsplex](https://facilities.cityofwoodstock.ca/Home/Detail?Id=d313e804-0975-49bf-92bf-739e8b851642) (Woodstock) | See City of Woodstock Program Guide | *Registration via City of Woodstock*
+| Tuesday | 7:00 pm - 7:45 pm | Level 1 | TBD (Woodstock) | $108 |   
+| Wednesday | 9:30 am - 10:15 am | Gentle | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $108 |  
+| Thursday | 6:00 pm - 6:45 pm | Level 1/2 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $96 | *No class October 31st* 
+| Friday | 1:30 pm - 2:15 pm | Level 1 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $108 |
+
 ### Level 1
 
 An excellent place to start your practice, or to explore the Method more deeply, this class introduces the Mat and Standing Fundamentals through a Pilates-based movement vocabulary. Classes focus on alignment, breath, and body awareness, while fostering curiosity of movement. 
@@ -53,18 +68,3 @@ Maintain good bone health and improve muscle strength and balance in this class 
 ### Prenatal
 
 This class combines Pilates Fundamentals and Modified Mat and Standing Exercises in a gentle, feel-good class. Not just for pregnant women, classwork is designed specifically with the pre/postnatal, aging, and rehabilitating body in mind. Classes focus on deep, subtle work, paying special attention to the breath. 
-
-To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
-{: .notice--primary}
-
-#### September 3 - November 2
-
-| Day |Time | Class | Location | Price | Notes |
-| --- |---- | ----- | -------- | ----- | ----- |
-| Monday | 9:30 am - 10:15 am | Level 2 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | *No class October 14th*
-| Monday | 12:15 pm - 12:45 pm | Level 1/2 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class October 14th*
-| Tuesday | 9:30 am - 10:15 am | Pilates Fundamentals | [Cowan Sportsplex](https://facilities.cityofwoodstock.ca/Home/Detail?Id=d313e804-0975-49bf-92bf-739e8b851642) (Woodstock) | See City of Woodstock Program Guide | *Registration via City of Woodstock*
-| Tuesday | 7:00 pm - 7:45 pm | Level 1 | TBD (Woodstock) | $108 |   
-| Wednesday | 9:30 am - 10:15 am | Gentle | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $108 |  
-| Thursday | 6:00 pm - 6:45 pm | Level 1/2 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $96 | *No class October 31st* 
-| Friday | 1:30 pm - 2:15 pm | Level 1 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $108 |
