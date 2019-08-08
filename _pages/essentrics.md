@@ -11,12 +11,12 @@ header:
 feature_row:
   - image_path: /assets/images/essentrics-flex.png
     alt: "customizable"
-    title: "8-Class Flex Pack"
-    excerpt: "Pre-pay for 8 classes and save **$16**. Pre-paid classes can be applied to any drop-in class at any time."
+    title: "10-Class Flex Pack"
+    excerpt: "Pre-pay for 10 classes and save **$20**. Pre-paid classes can be applied to any drop-in class at any time."
   - image_path: /assets/images/essentrics-single.png
     alt: "fully responsive"
     title: "Single Class"
-    excerpt: "Available for any drop-on class. No pre-registration required."
+    excerpt: "Available for any drop-in class. No pre-registration required."
 sidebar:
   - text: > 
       > I felt muscles that were silent for quite some time. From one session I feel more energized!
