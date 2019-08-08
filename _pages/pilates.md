@@ -31,7 +31,7 @@ Pilates is a low-impact, mindful movement, and full-body method of physical cond
 ## Schedule
 
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
-{: .notice--primary}
+
 
 #### September 3 - November 2
 
