@@ -29,6 +29,6 @@ More about Ashley:
 *	Essentrics® Level 2 Certified, The Esmonde Technique, Essentrics®
 *	Meditation Level 1, Internal Peace Initiative
 *	Modified and Pre/Postnatal Pilates, Marta Hernandez Studio
-*	Bone FitTM Trained, Osteoporosis Canada
+*	Bone Fit™ Trained, Osteoporosis Canada
 
 ![image-center]({{ "/assets/images/arms.jpg" | relative_url }}){: .align-center}
