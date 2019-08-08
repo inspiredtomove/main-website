@@ -19,6 +19,9 @@ joy, and even bliss.
 
 ## Schedule
 
+To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
+
+#### September 3 - November 2
 | Day |Time | Class | Location | Price | Notes
 | --- |---- | ----- | -------- | ----- | -----
 | Saturday, September 7 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
@@ -30,5 +33,3 @@ joy, and even bliss.
 | Saturday, November 30 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
 | Wednesday, December 18 | 6:00 pm - 7:00 pm | Restorative Pilates, Meditation & Halotherapy | [Action Wellness Centre](https://www.facebook.com/ActionWellnessCentreON/) (Woodstock) | $55 | *Limited to 4 participants; Registration required*
 | Saturday, December 21 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
-
-Register by email: [ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca). 
