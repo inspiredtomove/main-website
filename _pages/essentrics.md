@@ -31,14 +31,6 @@ Essentrics is a dynamic, full-body workout that simultaneously lengthens and str
 
 ## Schedule
 
-### Lengthen & Tone
-
-Lengthen & Tone Essentrics is a dynamic, full-body workout that simultaneously lengthens and strengthens while engaging all 650 muscles. Designed for men and women of all ages and fitness levels who want to rebalance the body, increase athletic performance, and develop and maintain strength in full range of motion. This program will prevent injuries, unlock tight joints, and leave you feeling energized.
-
-### Release, Rebalance, Restore
-
-Release, Rebalance, Restore Essentrics is an age reversing workout that will help to release tight muscles, rebalance joints, and restore the entire body. Regain your flexibility and mobility while slowly building strength and reawakening the power of your 650 muscles. Designed for men and women of all ages who want to dig deeper into the technique, experience stiffness or chronic aches and pains, or who are beginning to exercise after a long period of time. Note that this class has a slower pace than the Lengthen & Tone class.
-
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
 {: .notice--primary}
 
@@ -56,4 +48,12 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 Class packs may be purchased at the start of any drop-in class.
 
 {% include feature_row type="left" %}
+
+### Lengthen & Tone
+
+Lengthen & Tone Essentrics is a dynamic, full-body workout that simultaneously lengthens and strengthens while engaging all 650 muscles. Designed for men and women of all ages and fitness levels who want to rebalance the body, increase athletic performance, and develop and maintain strength in full range of motion. This program will prevent injuries, unlock tight joints, and leave you feeling energized.
+
+### Release, Rebalance, Restore
+
+Release, Rebalance, Restore Essentrics is an age reversing workout that will help to release tight muscles, rebalance joints, and restore the entire body. Regain your flexibility and mobility while slowly building strength and reawakening the power of your 650 muscles. Designed for men and women of all ages who want to dig deeper into the technique, experience stiffness or chronic aches and pains, or who are beginning to exercise after a long period of time. Note that this class has a slower pace than the Lengthen & Tone class.
 
