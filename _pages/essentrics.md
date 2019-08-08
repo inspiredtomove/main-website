@@ -32,7 +32,7 @@ Essentrics is a dynamic, full-body workout that simultaneously lengthens and str
 ## Schedule
 
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
-{: .notice--primary}
+
 
 #### September 3 - November 2
 
