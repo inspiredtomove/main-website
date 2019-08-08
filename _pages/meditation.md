@@ -22,6 +22,7 @@ joy, and even bliss.
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
 
 #### September 3 - November 2
+
 | Day |Time | Class | Location | Price | Notes
 | --- |---- | ----- | -------- | ----- | -----
 | Saturday, September 7 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
