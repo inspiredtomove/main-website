@@ -19,18 +19,23 @@ joy, and even bliss.
 
 ## Schedule
 
-| Day |Time | Location | Price | 
-| --- |---- | -------- | ----- | 
-| Saturday, May 11 | 11:30 - 12:15 pm | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $10 | 
-| Saturday, June 8 | 11:30 - 12:15 pm | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $10 | 
-| Saturday, July 6 | 11:30 - 12:15 pm | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $10 | 
-| Saturday, August 10 | 11:30 - 12:15 pm | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $10 | 
+| Day |Time | Class | Location | Price | Notes
+| --- |---- | ----- | -------- | ----- | -----
+| Saturday, September 7 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
+| Wednesday, September 25 | 6:00 pm - 7:00 pm | Restorative Pilates, Meditation & Halotherapy | [Action Wellness Centre](https://www.facebook.com/ActionWellnessCentreON/) (Woodstock) | $55 | *Limited to 4 participants; Registration required*
+| Saturday, October 5 | 11:30 am - 12:15 pm | Meditation |  [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
+| Wednesday, October 23 | 6:00 pm - 7:00 pm | Restorative Pilates, Meditation & Halotherapy | [Action Wellness Centre](https://www.facebook.com/ActionWellnessCentreON/) (Woodstock) | $55 | *Limited to 4 participants; Registration required*
+| Saturday, November 2 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
+| Wednesday, November 20 | 6:00 pm - 7:00 pm | Restorative Pilates, Meditation & Halotherapy | [Action Wellness Centre](https://www.facebook.com/ActionWellnessCentreON/) (Woodstock) | $55 | *Limited to 4 participants; Registration required*
+| Saturday, November 30 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
+| Wednesday, December 18 | 6:00 pm - 7:00 pm | Restorative Pilates, Meditation & Halotherapy | [Action Wellness Centre](https://www.facebook.com/ActionWellnessCentreON/) (Woodstock) | $55 | *Limited to 4 participants; Registration required*
+| Saturday, December 21 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
 
-Presently there are no regularly scheduled meditation classes. For information on scheduling a class, please email [ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca).
+Register by email: [ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca). 
 
 ## What to bring
 
 - Yoga mat (some will be available)
 - Light blanket or sweater (some will be available)
 - Small pillow, cushion, or small towel for headrest
-- Eye pillow or eye mask (available to purchase for $10)
+- Eye pillow or eye mask 
