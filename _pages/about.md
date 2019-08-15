@@ -30,5 +30,6 @@ More about Ashley:
 *	Meditation Level 1, Internal Peace Initiative
 *	Modified and Pre/Postnatal Pilates, Marta Hernandez Studio
 *	Bone Fit™ Trained, Osteoporosis Canada
+* Oov® Fundamentals, Polestar® Pilates
 
 ![image-center]({{ "/assets/images/arms.jpg" | relative_url }}){: .align-center}
