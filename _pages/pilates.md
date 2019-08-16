@@ -40,7 +40,7 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 | Monday | 9:30 am - 10:15 am | Level 2 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | *No class October 14th*
 | Monday | 12:15 pm - 12:45 pm | Level 1/2 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $70 | *No class October 14th*
 | Tuesday | 9:30 am - 10:15 am | Pilates Fundamentals | [Cowan Sportsplex](https://facilities.cityofwoodstock.ca/Home/Detail?Id=d313e804-0975-49bf-92bf-739e8b851642) (Woodstock) | See City of Woodstock Program Guide | *Registration via City of Woodstock*
-| Tuesday | 7:00 pm - 7:45 pm | Level 1 | TBD (Woodstock) | $108 |   
+| Tuesday | 7:00 pm - 7:45 pm | Level 1 | [Maranatha Christian Reformed Church](http://maranathacrcwoodstock.com/contact-us) | $108 |   
 | Wednesday | 9:30 am - 10:15 am | Gentle | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $108 |  
 | Thursday | 6:00 pm - 6:45 pm | Level 1/2 | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $96 | *No class October 31st* 
 | Friday | 1:30 pm - 2:15 pm | Level 1 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $108 |
