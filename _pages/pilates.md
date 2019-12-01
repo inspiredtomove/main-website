@@ -33,15 +33,14 @@ Pilates is a low-impact, mindful movement, and full-body method of physical cond
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
 
 
-#### November 4 - December 21
+#### January 6 - April 4
 
 | Day |Time | Class | Location | Price | Notes |
 | --- |---- | ----- | -------- | ----- | ----- |
-| Monday | 9:30 am - 10:15 am | Level 2 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 | 
+| Monday | 9:30 am - 10:15 am | Level 2 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $144 | 
 | Tuesday | 9:30 am - 10:15 am | Pilates Fundamentals | [Cowan Sportsplex](https://facilities.cityofwoodstock.ca/Home/Detail?Id=d313e804-0975-49bf-92bf-739e8b851642) (Woodstock) | See City of Woodstock Program Guide | *Registration via City of Woodstock*
-| Tuesday | 7:00 pm - 7:45 pm | Level 1 | [Maranatha Christian Reformed Church](http://maranathacrcwoodstock.com/contact-us) | $84 |   
-| Wednesday | 9:30 am - 10:15 am | Gentle | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 |  
-| Friday | 1:30 pm - 2:15 pm | Level 1 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $84 |
+| Tuesday | 7:00 pm - 7:45 pm | Level 1 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $144 |   
+| Wednesday | 9:30 am - 10:15 am | Gentle | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $144 |  
 
 ### Level 1
 
