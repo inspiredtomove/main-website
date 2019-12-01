@@ -33,7 +33,7 @@ We use this breathing to:
 5.	Encourage regular, gentle thoracic flexion and extension
 6.	Promote effective oxygenation of the blood and clearing of toxins from the body
 
-**Tips for Breathing in a Pilates Class**
+**Tips for Breathing in a Pilates Class:**
 
 1.	Inhale through the nose, and exhale through the mouth in order to access the deep layers of the abdominals.
 2.	Keep your breath length natural for your inhale. No need to take too much air in.
@@ -41,7 +41,7 @@ We use this breathing to:
 4.	If the breath and movement pattern is too much, focus on your movement first. You can add in the breathing whenever you’re ready.
 5.	Consider breath cues as suggestions. You can always breathe in the way that feels most comfortable to you. Try not to hold your breath.
 
-**Three ways to practice breathing at home**
+**Three ways to practice breathing at home:**
 
 1.	Sit in rest pose and feel for the backs of your ribs expanding. Let your head be heavy between your arms. Take it up a notch by resting your arms on a bolster.
 ![image-right]({{ "/assets/images/Breathing2.jpg" | relative_url }})
