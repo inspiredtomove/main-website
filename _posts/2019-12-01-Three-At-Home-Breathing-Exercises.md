@@ -41,7 +41,6 @@ Why do we use lateral posterior ribcage breathing in Pilates? We use this breath
 
 **Three ways to practice breathing at home**
 
-1.	Sit in rest pose and feel for the backs of your ribs expanding. Let your head be heavy between your arms. Take it up a notch by resting your arms on a bolster to help open the front of your chest. 
-2.	Lying on your back, place one hand on your sternum to encourage it to soften. Place your other hand around your ribcage, fingers to the front and thumb to the back. As you breathe, feel the ribcage expanding and contracting. Try placing both hands around the ribcage and see if you can feel any difference between the two sides. Does one expand more fully than the other? More quickly? Observe any differences without creating a story about it.
-3.	Place a bolster or partially deflated ball under your ribs while side lying. Reach your top arm over your head. Breathe into the top ribs. Notice any feedback the bolster gives your bottom ribs.
-
+1.	Sit in rest pose and feel for the backs of your ribs expanding. Let your head be heavy between your arms. Take it up a notch by resting your arms on a bolster to help open the front of your chest. ![image-right]({{ "/assets/images/Breathing1.jpg" | relative_url }}){: .align-right}
+2.	Lying on your back, place one hand on your sternum to encourage it to soften. Place your other hand around your ribcage, fingers to the front and thumb to the back. As you breathe, feel the ribcage expanding and contracting. Try placing both hands around the ribcage and see if you can feel any difference between the two sides. Does one expand more fully than the other? More quickly? Observe any differences without creating a story about it.![image-right]({{ "/assets/images/Breathing2.jpg" | relative_url }}){: .align-right}
+ 3.	Place a bolster or partially deflated ball under your ribs while side lying. Reach your top arm over your head. Breathe into the top ribs. Notice any feedback the bolster gives your bottom ribs.![image-right]({{ "/assets/images/Breathing3.jpg" | relative_url }}){: .align-right}
