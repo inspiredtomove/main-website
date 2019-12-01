@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(00, 35, 67, 0.4)
   cta_label: "View schedule"
   cta_url: "/pilates/#schedule"
-excerpt: 'Now booking classes for Fall 2019'
+excerpt: 'Now booking classes for Winter 2020'
 sidebar:
   - text: > 
       > As a
