@@ -34,14 +34,13 @@ Essentrics is a dynamic, full-body workout that simultaneously lengthens and str
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
 
 
-#### November 4 - December 21
+#### January 6 - April 4
 
-| Day |Time | Class | Location | Price | Notes
-| --- |---- | ----- | -------- | ----- | -----
-| Tuesday | 6:00 pm - 6:45 pm | Lengthen & Tone | [Maranatha Christian Reformed Church](http://maranathacrcwoodstock.com/contact-us) | $84 | *Drop-ins and flex class pass holders welcome*
-| Thursday | 7:00 pm - 7:45 pm | Lengthen & Tone | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $84 | *Drop-ins and flex class pass holders welcome*
+| Day |Time | Class | Location | Notes
+| --- |---- | ----- | -------- | -----
+| Thursday | 7:00 pm - 7:45 pm | Lengthen & Tone | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | *Drop-ins and flex class pass holders welcome*
 | Friday | 9:30 am - 10:15 am | Release, Rebalance, Restore | [Cowan Sportsplex](https://facilities.cityofwoodstock.ca/Home/Detail?Id=d313e804-0975-49bf-92bf-739e8b851642) (Woodstock) | See City of Woodstock Program Guide | *Registration required via City of Woodstock*
-| Saturday | 9:30 am - 10:15 am | Release, Rebalance, Restore | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | $72 | *Drop-ins and flex class pass holders welcome; No class November 9th* 
+| Saturday | 9:30 am - 10:15 am | Release, Rebalance, Restore | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | *Drop-ins and flex class pass holders welcome
 
 ## Pricing
 
