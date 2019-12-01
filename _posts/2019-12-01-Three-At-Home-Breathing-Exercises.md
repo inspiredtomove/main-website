@@ -22,7 +22,9 @@ When we’re stressed, we might lift our shoulders towards our ears and breathe 
 
 *To put it simply, moving away from shallow breathing and filling the sides and backs of our ribs with air allows our body to function at its best*.
 
-Why do we use lateral posterior ribcage breathing in Pilates? We use this breathing to:
+**Why do we use lateral posterior ribcage breathing in Pilates?**
+
+We use this breathing to:
 
 1.	Enhance our focus and mind-body connection
 2.	Activate the deep support muscles of the body, and keep the abdominals activated when performing exercises
