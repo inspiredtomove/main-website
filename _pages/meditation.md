@@ -21,16 +21,13 @@ joy, and even bliss.
 
 To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspiredtomove.ca)**
 
-#### September 3 - November 2
+#### December 21 - June 6
 
 | Day |Time | Class | Location | Price | Notes
 | --- |---- | ----- | -------- | ----- | -----
-| Saturday, September 7 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
-| Wednesday, September 25 | 6:00 pm - 7:00 pm | Restorative Pilates, Meditation & Halotherapy | [Action Wellness Centre](https://www.facebook.com/ActionWellnessCentreON/) (Woodstock) | $55 | *Limited to 4 participants; Registration required*
-| Saturday, October 5 | 11:30 am - 12:15 pm | Meditation |  [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
-| Wednesday, October 23 | 6:00 pm - 7:00 pm | Restorative Pilates, Meditation & Halotherapy | [Action Wellness Centre](https://www.facebook.com/ActionWellnessCentreON/) (Woodstock) | $55 | *Limited to 4 participants; Registration required*
-| Saturday, November 2 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
-| Wednesday, November 20 | 6:00 pm - 7:00 pm | Restorative Pilates, Meditation & Halotherapy | [Action Wellness Centre](https://www.facebook.com/ActionWellnessCentreON/) (Woodstock) | $55 | *Limited to 4 participants; Registration required*
-| Saturday, November 30 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
-| Wednesday, December 18 | 6:00 pm - 7:00 pm | Restorative Pilates, Meditation & Halotherapy | [Action Wellness Centre](https://www.facebook.com/ActionWellnessCentreON/) (Woodstock) | $55 | *Limited to 4 participants; Registration required*
 | Saturday, December 21 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
+| Saturday, January 18 | 11:00 am - 11:45 am | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
+| Saturday, February 15 | 11:00 am - 11:45 am | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
+| Saturday, April 4 | 11:00 am - 11:45 am | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
+| Saturday, May 2 | 11:00 am - 11:45 am | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
+| Saturday, June 6 | 11:00 am - 11:45 am | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
