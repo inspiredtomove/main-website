@@ -37,10 +37,10 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 
 | Day |Time | Class | Location | Price | Notes |
 | --- |---- | ----- | -------- | ----- | ----- |
-| Monday | 9:30 am - 10:15 am | Level 2 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $144 | 
+| Monday | 9:30 am - 10:15 am | Level 2 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $144 | No class March 16
 | Tuesday | 9:30 am - 10:15 am | Pilates Fundamentals | [Cowan Sportsplex](https://facilities.cityofwoodstock.ca/Home/Detail?Id=d313e804-0975-49bf-92bf-739e8b851642) (Woodstock) | See City of Woodstock Program Guide | *Registration via City of Woodstock*
-| Tuesday | 7:00 pm - 7:45 pm | Level 1 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $144 |   
-| Wednesday | 9:30 am - 10:15 am | Gentle | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $144 |  
+| Tuesday | 7:00 pm - 7:45 pm | Level 1 | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $144 | No class March 17   
+| Wednesday | 9:30 am - 10:15 am | Gentle | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $144 | No class March 18
 
 ### Level 1
 
