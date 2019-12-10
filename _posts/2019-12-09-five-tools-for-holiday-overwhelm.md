@@ -8,8 +8,6 @@ author: Ashley Farrar
 author_profile: true
 ---
 
-# Five Tools for Holiday Overwhelm
-
 No matter what you celebrate, the holidays can be hard. The holidays have been complicated for me ever since my mom, uncle, and then dad a few years later, died suddenly. 
 
 I have had years where I was like a walking shell over the holidays, years where the act of decorating felt impossible, and years where I’ve been able to both embrace the cozy holiday things and grieve the past and lost future. It has not been an upward trajectory since they died. Every year is a new, sometimes surprising, experience.
