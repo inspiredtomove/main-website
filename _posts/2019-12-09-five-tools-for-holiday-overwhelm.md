@@ -39,7 +39,7 @@ It might be a room, or a place in nature. When you’re in this place, nothing c
 Anytime that you feel upset, overwhelmed, bothered, or disturbed, immerse yourself back into your inner resource.
 
 ## 3.	Notice Thoughts and Emotions
-Tip: This can sometimes be very challenging. Make use of your inner resource, and know that you can return to your inner resource at any time as you observe and feel your thoughts and emotions. If it is too much for you right now, that’s okay. Respect what your body is telling you.
+**Tip:** This can sometimes be very challenging. Make use of your inner resource, and know that you can return to your inner resource at any time as you observe and feel your thoughts and emotions. If it is too much for you right now, that’s okay. Respect what your body is telling you.
 
 Notice an emotion that is arising. Notice it without judgement. Notice where you feel it in your body, and allow yourself to feel it. Pause to immerse yourself in the feeling. Then, allow yourself to feel the opposite emotion (for example, if you’re feeling overwhelmed, invite in feelings of serenity). Allow your awareness to shift between your original emotion, and it’s opposite a few times. Then, allow yourself to hold both emotions in your awareness at the same time. Now, let go of both emotions, without wishing that the experience was any different.
 
