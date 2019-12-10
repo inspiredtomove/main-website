@@ -48,15 +48,15 @@ Create a pleasant experience for one of your senses (sight, smell, hearing, touc
 
 ## 5.	Self-Talk
 Use self-talk to guide you through your tough moments. Remind yourself that: 
-•	It’s okay to set boundaries, even if other people don’t like them
-•	Other people’s thoughts and behaviours are about themselves, not you
-•	It’s okay to take breaks
-•	You are allowed to say no as often as you need to
-•	You don’t have to feel good all of the time. Negative feelings and emotions are part of the human experience
-•	It’s okay to make mistakes, it makes you human 
-•	You don’t have to change who you are to make other people happy
-•	Other people don’t have to understand your choices
-•	Other people’s opinions of you are just their perception, not fact
-•	Your thoughts, are just perception, not fact
++ It’s okay to set boundaries, even if other people don’t like them
++ Other people’s thoughts and behaviours are about themselves, not you
++ It’s okay to take breaks
++ You are allowed to say no as often as you need to
++ You don’t have to feel good all of the time. Negative feelings and emotions are part of the human experience
++ It’s okay to make mistakes, it makes you human 
++ You don’t have to change who you are to make other people happy
++ Other people don’t have to understand your choices
++ Other people’s opinions of you are just their perception, not fact
++ Your thoughts, are just perception, not fact
 
 No matter if the holiday season feels wonderful to you, challenging, or somewhere in between, know that it’s never selfish to do the things that you need to do, to nurture your mind and body.
