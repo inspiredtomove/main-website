@@ -40,7 +40,7 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 | --- |---- | ----- | -------- | -----
 | Thursday | 9:30 am - 10:15 am | Release, Rebalance, Restore | [Cowan Sportsplex](https://facilities.cityofwoodstock.ca/Home/Detail?Id=d313e804-0975-49bf-92bf-739e8b851642) (Woodstock) | See City of Woodstock Program Guide | *Registration required via City of Woodstock*
 | Thursday | 7:00 pm - 7:45 pm | Lengthen & Tone | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | *Drop-ins and flex class pass holders welcome*
-| Saturday | 9:30 am - 10:15 am | Release, Rebalance, Restore | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | *Drop-ins and flex class pass holders welcome
+| Saturday | 9:30 am - 10:15 am | Release, Rebalance, Restore | [Dance in Style Studio](https://dancewoodstock.com/) (Woodstock) | *Drop-ins and flex class pass holders welcome*
 
 ## Pricing
 
