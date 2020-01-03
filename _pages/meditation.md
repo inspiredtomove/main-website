@@ -25,8 +25,7 @@ To register for classes, email **[ashley@inspiredtomove.ca](mailto:ashley@inspir
 
 | Day |Time | Class | Location | Price | Notes
 | --- |---- | ----- | -------- | ----- | -----
-| Saturday, December 21 | 11:30 am - 12:15 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
-| Saturday, January 18 | 11:00 am - 11:45 am | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
+| Saturday, January 18 | 11:15 am - 12:00 pm | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
 | Saturday, February 15 | 11:00 am - 11:45 am | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
 | Saturday, April 4 | 11:00 am - 11:45 am | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
 | Saturday, May 2 | 11:00 am - 11:45 am | Meditation | [Rebecca Kitchen, RMT](http://www.rebecca-rmt.com) (Woodstock) | $12 | *Drop-ins welcome*
